@@ -1,4 +1,4 @@
-I love creating games and shaders! Most of my work is not in github due to LFS limiatiions 💀. Currently taking an interest in web development as well 🕷
+I love creating games and shaders! Most of my work is not in github due to LFS limitations 💀. Currently taking an interest in web development as well 🕷
 
 
 <!--
