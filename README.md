@@ -1,6 +1,8 @@
-I love creating games and shaders! Most of my work is not in github due to LFS limitations 💀 
-You can check some of it here 🦍 -> https://gitlab.com/KaellO 
-Currently taking an interest in web development as well 🕷
+I love creating games and shaders! Most of my work is not in github due to LFS limitations 💀 </br>
+
+You can check some of it here 🦍 -> https://gitlab.com/KaellO </br>
+
+Currently taking an interest in web development as well 🕷 </br>
 
 
 <!--
