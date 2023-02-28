@@ -1,4 +1,5 @@
-### Hi there 👋
+I love creating games and shaders! Most of my work is not in github due to LFS limiatiions 💀. Currently taking an interest in web development as well 🕷
+
 
 <!--
 **Lithiax/Lithiax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
